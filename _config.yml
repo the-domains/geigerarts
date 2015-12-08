@@ -1,7 +1,7 @@
 name: GEIGERARTS
 favicon: null
-layout_spectrum: 0.44088864838704467
-typography_spectrum: 0.49182023690082133
+layout_spectrum: 1
+typography_spectrum: 0.42265
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.89452921343036
-  lightness: 0.627827811986208
-  saturation: 0.45682456786744297
-  rhythmicContrast: 0.6035557915456593
+    - '#0e0500'
+    - '#bc9848'
+    - '#d7bf7e'
+    - '#9d6e2e'
+    - '#804920'
+  brandStrength: 0.5
+  lightness: 0.5625
+  saturation: 0.25
+  rhythmicContrast: 0.25
 purpose: []
